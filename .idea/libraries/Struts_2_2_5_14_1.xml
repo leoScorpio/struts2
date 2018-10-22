@@ -9,6 +9,10 @@
       <root url="jar://$PROJECT_DIR$/lib/freemarker.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/struts2-core.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SZHSPF/SZHSpf/WebRoot/WEB-INF/lib/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SZHSPF/SZHSpf/WebRoot/WEB-INF/lib/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SZHSPF/SZHSpf/WebRoot/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/struts/xwork/xwork-core/2.3.1/xwork-core-2.3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
