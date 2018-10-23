@@ -11,5 +11,9 @@
             <!--转到input.jsp页面-->
             <result>index.jsp</result>
         </action>
+        <action name="Login" class="com.yyq.action.Login">
+            <!--转到input.jsp页面-->
+            <result>welcome.jsp</result>
+        </action>
     </package>
 </struts>
